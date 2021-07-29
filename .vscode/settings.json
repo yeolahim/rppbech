@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "random": "cpp",
+    "pico.h": "c",
+    "pheap.h": "c",
+    "limits.h": "c",
+    "datetime.h": "c",
+    "stdio.h": "c",
+    "cstdio": "c"
+  }
+}
